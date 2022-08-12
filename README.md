@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HomesIII
+- 👋 Hi, I’m @HolmesIII
 - 👀 I’m interested in art
 - 🌱 I’m currently learning lisp
 - 💞️ I’m looking to collaborate on ...
